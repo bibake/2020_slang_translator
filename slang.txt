@@ -1,4 +1,3 @@
-{
     "$" : " dollar ",
     "€" : " euro ",
     "4ao" : "for adults only",
@@ -226,4 +225,3 @@
     "ygtr" : "you got that right",
     "ynk" : "you never know",
     "zzz" : "sleeping bored and tired"
-}
